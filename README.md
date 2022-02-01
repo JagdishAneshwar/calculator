@@ -1,7 +1,7 @@
 # Description
 It is the basic Calculator. which has following functionality:
-      - addition, substraction multiplication, division
-      - dealing with float numbers
+- addition, substraction multiplication, division
+- dealing with float numbers
       - clearing only last digit
       - clearing all digits
       - error handling
@@ -13,5 +13,5 @@ It is the basic Calculator. which has following functionality:
 
 ![pre_view-03](https://user-images.githubusercontent.com/93184409/151929566-ff22b9f4-ba20-4dba-83c4-69c163d4e531.png)
 
-# Download
+> Download
 To run Calculator download only calculator.exe and then run it.
