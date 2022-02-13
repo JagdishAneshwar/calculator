@@ -17,4 +17,4 @@ It is the basic calculator. which has following functionality:
 ![pre_view-03](https://user-images.githubusercontent.com/93184409/151929566-ff22b9f4-ba20-4dba-83c4-69c163d4e531.png)
 
 # Download
-> To use this calculator, download calculator.exe
+> To use this calculator, download cal2.exe
