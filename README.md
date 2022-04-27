@@ -18,3 +18,4 @@ It is the basic calculator. which has following functionality:
 
 # Download
 > To use this calculator, download cal2.exe
+NOTE: Tools and Theme will not work. 
